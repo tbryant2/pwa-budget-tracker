@@ -6,3 +6,6 @@ A progressive web application called budget tracker. This allows users to track 
 
 # Technologies 
 express, mongodb, mongoose, indexeddb, mogran, Javascript, html, 
+
+deployed: https://strawberry-pie-29674.herokuapp.com/
+
